@@ -1,0 +1,342 @@
+.a{height:175px;
+   width:100%;
+}
+.b{height:425px;
+   width:100%;
+   margin:0;
+   box-sizing:border-box;
+   line-height:10px;
+}
+.c{height:100px;
+   width:100%;
+   margin:0;
+} 
+.d{font-size:20px;
+	margin-right:20px;}
+.pagina4{height:550px;
+         width:100%;}
+.impartire{height:425px;
+		   width:50%;
+           float:left;}
+.impartire2{height:425px;
+		   width:50%;
+           float:right;}		   
+.meniuri{ height:425px;
+		  width:50%;
+          float:left;
+		  background-color:rgba(0, 0, 0, 0.5);
+          margin: auto;
+          height: inherit;}
+.meniuri2{ height:425px;
+		  width:50%;
+		  float:right;
+		  background-color:rgba(0, 0, 0, 0.5);
+          margin: auto;
+          height: inherit;}
+.logofirma{float:right;
+            margin-bottom:30px;}		  
+.meniu1{ margin-left:50px;
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+
+.detalii{color:white;
+		 font-size:14px;
+         font-style:italic;
+		 margin-left:15px;}
+.meniu2{ margin-left:50px;
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.detalii2{color:white;
+		 font-size:14px;
+         font-style:italic;
+		 margin-left:15px;}		 
+.meniu3{ margin-left:50px;
+		color:white;
+		font-size:18px;
+		line-height:12px;}
+.detalii3{color:white;
+		 font-size:14px;
+         font-style:italic;
+		 margin-left:15px;}		
+.meniu4{ margin-left:50px;
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.detalii4{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}		 
+.meniu5{ margin-left:50px;
+		color:white;
+		font-size:18px;
+		line-height:12px;}	
+.detalii5{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}		
+.meniu6{ margin-left:50px;
+		 color:white;
+		 font-size:18px;
+		 line-height:12px;}
+.detalii6{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}		 
+.meniu7{ margin-left:50px;
+		color:white;
+		font-size:18px;
+		line-height:12px;}
+.detalii7{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}		
+.meniu8{ color:white;
+		 font-size:18px;
+		 line-height:12px;}
+.detalii8{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}		 
+.meniu9{color:white;
+		font-size:18px;
+		line-height:12px;}
+.detalii9{color:white;
+		 font-size:14px;
+         font-style:italic;
+          margin-left:15px;}		
+.meniu10{ margin-right:100px;	
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.detalii10{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}		 
+.meniu11{ margin-right:250px;	
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.detalii11{color:white;
+		 font-size:14px;
+         font-style:italic;
+          margin-left:15px;}		 
+.meniu12{ margin-right:250px;	
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.detalii12{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}	 
+.meniu13{ margin-right:250px;	
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.detalii13{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}	 
+.meniu14{ margin-right:250px;	
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.detalii14{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}		 
+.meniu15{ margin-right:250px;	
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.detalii15{color:white;
+		 font-size:14px;
+         font-style:italic;
+         margin-left:15px;}		 
+.meniu16{ margin-right:200px;	
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.meniu17{ margin-right:120px;	
+		 color:white;
+		 font-size:18px;
+		 line-height:10px;}
+.informatii{text-align:center;
+			color:white;
+            font-size:30px;
+            font-weight:bold;}
+.logo	{background-color:rgba(0, 0, 0, 0.5);
+         width:100%;
+         margin: auto;
+		 height:550px;
+		 padding:15px;
+		 box-sizing:border-box;
+		 text-align:center;}
+.facebook{color:white;
+		  text-decoration:none;
+          font-size:25px;
+		  margin-left:10px;
+		  margin-bottom:60px;}
+.instagram{color:white;
+		  text-decoration:none;
+          font-size:25px;
+		  margin-left:10px;
+		  margin-bottom:60px;}
+.mail{color:white;
+	  text-decoration:none;	
+      font-size:25px;
+	  margin-left:10px;
+      margin-bottom:60px;}
+.phone{	color:white;
+		text-decoration:none;	
+		font-size:25px;
+		margin-left:10px;
+        margin-bottom:60px;}  
+body{background-image:url('burger7.jpg');
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-position:center;
+}   
+.acasa{ color:white;
+		font-size:30px;
+		text-decoration:none;
+		font-family:Brush Script MT, Brush Script Std, cursive;
+}
+.acasa:hover{ color:grey;}
+             
+.desprenoi{color:white;
+		   text-decoration:none;
+		   font-family:Brush Script MT, Brush Script Std, cursive;
+		   font-size:30px;
+}
+.desprenoi:hover{color:grey;}
+.galerie{color:white;
+		 text-decoration:none;
+		 font-family:Brush Script MT, Brush Script Std, cursive;
+		 font-size:30px;
+		  
+}
+.galerie:hover{color:grey;}
+.meniu {color:white;
+	   text-decoration:none;
+	   font-family:Brush Script MT, Brush Script Std, cursive;
+	   font-size:30px;
+}
+.meniu:hover{color:grey;}
+.contact{color:white;
+		 text-decoration:none;
+		 font-family:Brush Script MT, Brush Script Std, cursive;
+		 font-size:30px;
+		 
+}
+.contact:hover{color:grey;}		 
+.despre{
+   color: #efefef;
+   text-align: center;
+   font-size: 25px;
+}
+
+.div_despre {
+   background-color:rgba(0, 0, 0, 0.5);
+   width: 75%;
+   margin: auto;
+   height: inherit;
+   padding: 10px;
+   line-height:45px;
+   font-size:50px;
+}
+
+
+/* Slideshow container */
+.slideshow-container {
+  max-width:800px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 20px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  font-weight:bold;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+1.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
