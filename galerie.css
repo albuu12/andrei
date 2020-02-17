@@ -1,0 +1,16 @@
+.a{height:300px;
+   width:100%;
+}
+.b{height:300px;
+   width:100%;
+   margin:0;
+}
+.c{height:100px;
+   width:100%;
+   margin:0;
+} 
+body{background-image:url('burger4.jpg');
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-position:center;
+}  
